@@ -1,0 +1,8 @@
+{
+  "name": "Taipei Metro Water Manager Dashboard",
+  "description": "台北捷運每週智慧水管家查核完成度儀表板 (TRTC Smart Water Manager Weekly Dashboard)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
